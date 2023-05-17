@@ -17,10 +17,13 @@ header{
     text-align: center;
     padding-top: 1rem;
 }
+
+
+
 .cabecalho-link{
 
     display: flex;
-   justify-content: center;
+   justify-content: space-between;
     gap: 3rem;
     font-weight: 300;
 
