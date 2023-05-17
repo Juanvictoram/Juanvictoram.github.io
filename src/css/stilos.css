@@ -133,15 +133,9 @@ font-size: 15px;
 #juan{
     margin-top: 10px;
 }
-@media only screen and (max-widht: 950px) {
-    .cabecalho-link{
-        width: 75%;
-        display: flex;
-        justify-content: center;
-    }
-}
+
 @media only screen and (max-widht: 600px) {
-    .cabecalho-link{
+    .background{
         flex-direction: column;
 
     }
