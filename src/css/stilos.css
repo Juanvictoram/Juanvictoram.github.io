@@ -6,7 +6,7 @@ body{
     background-image: url(/src/imagens/2000x1080.jpg);
     background-size: cover;
     background-position: center;
-    width: 100%;
+    max-width: 100%;
     height: 100vh;
 }
 header{
@@ -29,6 +29,8 @@ header{
 
 }
 .cabecalho-link a{
+    max-width: 100vw;
+    max-height: 50vh;
     margin: 0px 10;
     display: flex;
     justify-content: space-around;
@@ -70,7 +72,7 @@ header{
     color: #2ecc71;
     border-radius: 50%;
     display: inline-flex;
-    align-items: center;
+   align-items: center;
     justify-content: center;
     font-size: 13px;
     cursor: pointer;
@@ -130,4 +132,17 @@ font-size: 15px;
 }
 #juan{
     margin-top: 10px;
+}
+@media only screen and (max-widht: 950px) {
+    .cabecalho-link{
+        width: 75%;
+        display: flex;
+        justify-content: center;
+    }
+}
+@media only screen and (max-widht: 600px) {
+    .cabecalho-link{
+        flex-direction: column;
+
+    }
 }
