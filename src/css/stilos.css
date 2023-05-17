@@ -18,8 +18,9 @@ header{
     padding-top: 1rem;
 }
 .cabecalho-link{
+
     display: flex;
-   
+   justify-content: center;
     gap: 3rem;
     font-weight: 300;
 
@@ -27,6 +28,8 @@ header{
 .cabecalho-link a{
     margin: 0px 10;
     display: flex;
+    justify-content: space-around;
+    align-items: center;
     color: #fff;
     font-size: 12px;
 }
