@@ -146,3 +146,9 @@ font-size: 15px;
 
     }
 }
+@media only screen and (max-widht: 600px) {
+    .background{
+        width: 75%;
+        justify-content: center;
+    }
+}
