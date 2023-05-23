@@ -20,6 +20,7 @@ a {
 }
 
 a:hover {
+background-color: transparent;
  color: rgb(208, 255, 0);
 }
 
@@ -31,6 +32,7 @@ img {
 .logo {
     padding: 15px 0;
 }
+
 
 .barra {
     width: 100%;
