@@ -9,9 +9,7 @@
   
   
 </div>
-
-<img src ="https://cdn.discordapp.com/attachments/908101448112431115/964901539942662224/unknown.png" />
-
+ />
 <div style="display: inline_block">
   
 <a href = "mailto:juanamaral332@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
