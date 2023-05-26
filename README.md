@@ -9,8 +9,8 @@
   
   
 </div>
-<img src="[https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://lucky-sopapillas-3ffd3d.netlify.app/)"/> 
- />
+<img src="https://imagem-portifolio.netlify.app/"/> 
+
 <div style="display: inline_block">
   
 <a href = "mailto:juanamaral332@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
