@@ -9,8 +9,7 @@
   
   
 </div>
-
-<img src ="https://cdn.discordapp.com/attachments/908101448112431115/964901539942662224/unknown.png" />
+<img src="https://imagem-portifolio.netlify.app/WhatsApp%20Image%202023-05-18%20at%2018.30.26%20(1).jpeg"/> 
 
 <div style="display: inline_block">
   
