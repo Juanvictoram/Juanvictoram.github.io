@@ -9,7 +9,7 @@
   
   
 </div>
-<img src="https://imagem-portifolio.netlify.app/"/> 
+<img src="https://imagem-portifolio.netlify.app/WhatsApp%20Image%202023-05-18%20at%2018.30.26%20(1).jpeg"/> 
 
 <div style="display: inline_block">
   
